@@ -48,27 +48,31 @@ Para lo cual debes filtrar o elegir en el sitio de la siguiente manera para obte
 
 ---
 
-📌 [Ejercicio 1 (Java If-Else)](EjerciciosJava1.md)
+📌 [Ejercicio 1 (Java BigDecimal)](Ejercicio1.md)
 
-📌 [Ejercicio 2 (Java Stdin y Stdoun II)](EjerciciosJava2.md)
+📌 [Ejercicio 2 (Java Primality Test)](Ejercicio2.md)
 
-📌 [Ejercicio 3 (Java Output Formatting)](EjerciciosJava3.md)
+📌 [Ejercicio 3 (Java BigInteger)](Ejercicio3.md)
 
-📌 [Ejercicio 4 (Java Loops)](EjerciciosJava4.md)
+📌 [Ejercicio 4 (Java Inheritance I)](Ejercicio4.md)
 
-📌 [Ejercicio 5 (Java Loops II)](EjerciciosJava5.md)
+📌 [Ejercicio 5 (Java Inheritance II)](Ejercicioa5.md)
 
-📌 [Ejercicio 6 (Java Datatypes)](EjerciciosJava6.md)
+📌 [Ejercicio 6 (Java Abstract Class)](Ejercicio6.md)
 
-📌 [Ejercicio 7 (Java End-of-file)](EjerciciosJava7.md)
+📌 [Ejercicio 7 (Java Interface)](Ejercicio7.md)
 
-📌 [Ejercicio 8 (Java Static Initializer Block)](EjerciciosJava8.md)
+📌 [Ejercicio 8 (Java Method Overriding)](Ejercicio.md)
 
-📌 [Ejercicio 9 (Java Int to String)](EjerciciosJava9.md)
+📌 [Ejercicio 9 (Java Method Overriding 2 (Super Keyword))](Ejercicio9.md)
 
-📌 [Ejercicio 10 (Date and Time in Java )](EjerciciosJava10.md)
+📌 [Ejercicio 10 (Java Instanceof keyword)](Ejercicio10.md)
 
+📌 [Ejercicio 11 (Java Iterator)](Ejercicio11.md)
 
+📌 [Ejercicio 12 (Java Exception Handling (Try-catch))](Ejercicio12.md)
+
+📌 [Ejercicio 13 (Java Exception Handling)](Ejercicio13.md)
 
 
 ## ✨ DECLARACION DE USO DE IA
